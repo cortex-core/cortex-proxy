@@ -1,0 +1,19 @@
+{
+  "name": "cortex-proxy",
+  "version": "0.0.1",
+  "description": "Proxy Service",
+  "main": "service.js",
+  "scripts": {
+    "test": "mocha --recursive --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortex-core/cortex-proxy.git"
+  },
+  "author": "Basar Turgut",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cortex-core/cortex-proxy/issues"
+  },
+  "homepage": "https://github.com/cortex-core/cortex-proxy#readme"
+}
