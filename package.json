@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cortex-core/cortex-proxy/issues"
   },
-  "homepage": "https://github.com/cortex-core/cortex-proxy#readme"
+  "homepage": "https://github.com/cortex-core/cortex-proxy#readme",
+  "dependencies": {
+    "node-stun": "^0.1.2"
+  }
 }
